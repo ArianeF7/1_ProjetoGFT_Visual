@@ -1,0 +1,11 @@
+C:\Users\AAFA\source\repos\1_ProjetoGFT_Visual\obj\Debug\netcoreapp3.1\1_ProjetoGFT_Visual.csprojAssemblyReference.cache
+C:\Users\AAFA\source\repos\1_ProjetoGFT_Visual\obj\Debug\netcoreapp3.1\1_ProjetoGFT_Visual.AssemblyInfoInputs.cache
+C:\Users\AAFA\source\repos\1_ProjetoGFT_Visual\obj\Debug\netcoreapp3.1\1_ProjetoGFT_Visual.AssemblyInfo.cs
+C:\Users\AAFA\source\repos\1_ProjetoGFT_Visual\bin\Debug\netcoreapp3.1\1_ProjetoGFT_Visual.exe
+C:\Users\AAFA\source\repos\1_ProjetoGFT_Visual\bin\Debug\netcoreapp3.1\1_ProjetoGFT_Visual.deps.json
+C:\Users\AAFA\source\repos\1_ProjetoGFT_Visual\bin\Debug\netcoreapp3.1\1_ProjetoGFT_Visual.runtimeconfig.json
+C:\Users\AAFA\source\repos\1_ProjetoGFT_Visual\bin\Debug\netcoreapp3.1\1_ProjetoGFT_Visual.runtimeconfig.dev.json
+C:\Users\AAFA\source\repos\1_ProjetoGFT_Visual\bin\Debug\netcoreapp3.1\1_ProjetoGFT_Visual.dll
+C:\Users\AAFA\source\repos\1_ProjetoGFT_Visual\bin\Debug\netcoreapp3.1\1_ProjetoGFT_Visual.pdb
+C:\Users\AAFA\source\repos\1_ProjetoGFT_Visual\obj\Debug\netcoreapp3.1\1_ProjetoGFT_Visual.dll
+C:\Users\AAFA\source\repos\1_ProjetoGFT_Visual\obj\Debug\netcoreapp3.1\1_ProjetoGFT_Visual.pdb
